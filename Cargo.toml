@@ -1,0 +1,15 @@
+[package]
+name = "rs-mytools"
+version = "0.1.0"
+edition = "2021"
+authors = ["Brandon Stewart"]
+description = "Extensions to Rust's standard library providing additional functionality"
+license = "MIT"
+repository = "https://github.com/brandonstewart/rs-myTools"
+
+[dependencies]
+# No external dependencies for now to keep it lightweight
+# We can add some later if needed
+
+[dev-dependencies]
+# We can add test dependencies here if needed
